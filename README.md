@@ -1,12 +1,12 @@
-# ⚡ FokusBot — Personal Productivity Assistant
+# ⚡ Nexara — Personal Productivity Assistant
 
 > Final Project — AI Productivity and AI API Integration for Developers | Hacktiv8
 
-FokusBot adalah chatbot AI berbasis Claude (Anthropic) yang dirancang untuk membantu pengguna meningkatkan produktivitas sehari-hari dengan gaya percakapan yang santai dan friendly.
+Nexara adalah chatbot AI berbasis Groq yang dirancang untuk membantu pengguna meningkatkan produktivitas sehari-hari dengan gaya percakapan yang santai dan friendly.
 
 ---
 
-## 🎯 Use Case
+🎯 Use Case
 
 **Personal Productivity Assistant** — membantu pengguna dengan:
 - 📋 Membuat dan memprioritaskan to-do list
