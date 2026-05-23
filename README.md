@@ -21,7 +21,7 @@ Nexara adalah chatbot AI berbasis Groq yang dirancang untuk membantu pengguna me
 |-----------|-------|
 | Gaya Bahasa | Santai & Friendly (bahasa Indonesia casual) |
 | Domain | Produktivitas & Time Management |
-| Model AI | Claude Sonnet (claude-sonnet-4-20250514) |
+| Model AI | llama-3.3-70b-versatile) |
 | Fitur Memori | Menyimpan nama user & konteks percakapan per sesi |
 | Fitur Tambahan | Quick Actions sidebar, Quick Reply chips |
 
@@ -31,7 +31,7 @@ Nexara adalah chatbot AI berbasis Groq yang dirancang untuk membantu pengguna me
 
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
 - **Backend:** Node.js + Express.js
-- **AI Model:** Anthropic Claude API
+- **AI Model:** Groq AI
 - **Environment:** dotenv untuk manajemen API key
 
 ---
@@ -41,7 +41,7 @@ Nexara adalah chatbot AI berbasis Groq yang dirancang untuk membantu pengguna me
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/username/fokusbot.git
-cd fokusbot
+cd Nexara
 ```
 
 ### 2. Install Dependencies
@@ -52,11 +52,11 @@ npm install
 ### 3. Setup Environment Variable
 Buat file `.env` di root folder:
 ```env
-ANTHROPIC_API_KEY=sk-ant-isi-api-key-kamu-disini
+GROQ_API_KEY=sk-ant-isi-api-key-kamu-disini
 PORT=3000
 ```
 
-> Dapatkan API key di: https://console.anthropic.com
+> Dapatkan API key di: https://console.groq.com
 
 ### 4. Jalankan Server
 ```bash
@@ -97,12 +97,12 @@ fokusbot/
 
 ## 📸 Screenshot
 
-*(Tambahkan screenshot UI di sini setelah running)*
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/7ac48e12-54f9-4c7b-85a1-ff3a3080e481" />
+
 
 ---
 
 ## 👤 Author
 
-Nama: [Nama Kamu]  
-Cohort: [Cohort Kamu]  
+Nama: vikyproject  
 Hacktiv8 — AI Productivity and AI API Integration for Developers
